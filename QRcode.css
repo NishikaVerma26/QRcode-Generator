@@ -17,7 +17,6 @@ transform: translate(-50%,-50%);
 background: #fff;
 border-radius: 10px;
 }
-
 .container p{
     font-weight: 600;
     font-size: 15px;
@@ -61,7 +60,6 @@ border-radius: 10px;
     max-height: 300px;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
-
 }
 .error{
     animation: shake 0.1s linear 10;
